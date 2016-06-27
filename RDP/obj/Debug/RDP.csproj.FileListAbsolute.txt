@@ -1,0 +1,55 @@
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\bin\Debug\RDP.exe.config
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\bin\Debug\RDP.exe
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\bin\Debug\RDP.pdb
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\bin\Debug\Interop.MSTSCLib.dll
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.csprojResolveAssemblyReference.cache
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\Interop.MSTSCLib.dll
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.csproj.ResolveComReference.cache
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.Form1.resources
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.Properties.Resources.resources
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.csproj.GenerateResource.Cache
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.exe
+C:\My_documents\Visual Studio 2012\Projects\RDP\RDP\obj\Debug\RDP.pdb
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDP.exe.config
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.csproj.ResolveComReference.cache
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.exe
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.pdb
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDP.exe
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDP.pdb
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.Form1.resources
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.Properties.Resources.resources
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\obj\Debug\RDP.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\GraphLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\DynamicInterop.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDotNet.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\DynamicInterop.xml
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDotNet.xml
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP\RDP\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDP.exe.config
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.csproj.ResolveComReference.cache
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.exe
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.pdb
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDP.exe
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDP.pdb
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\DynamicInterop.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDotNet.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\DynamicInterop.xml
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDotNet.xml
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.Form1.resources
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.Properties.Resources.resources
+C:\Users\Вячеслав\SkyDrive\The Diploma\RDP_w_m\RDP\obj\Debug\RDP.csproj.GenerateResource.Cache
